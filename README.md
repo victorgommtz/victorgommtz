@@ -10,7 +10,7 @@ class VictorGomez():
     
   def __init__(self):
     self.name = "Victor Gomez";
-    self.username = "httpsvictor";
+    self.username = "victorgommtz";
     self.location = "Oaxaca, Mexico";
     self.web = "https://victor.dev";
     self.email = "victor.g@datyra.com"
